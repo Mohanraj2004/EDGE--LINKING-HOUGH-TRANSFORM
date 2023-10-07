@@ -28,8 +28,8 @@ Detect line co-ordinates for every points in the images. Draw the lines on the f
 
 
 ## Program:
-Developed by: S.Mohanraj
-Reg no:212221230065
+##Developed by: S.Mohanraj
+##Reg no:212221230065
 
 ###  Read image and convert it to grayscale image
 ~~~
